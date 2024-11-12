@@ -3,4 +3,4 @@
 
  Estou aprendendo a cirar sites e agora vou gerenciar meus repositórios!
 
-<a hreh="https://kelwin863.github.io/html-css/exercícios/ex001/index.html">Executar o exercício 001</a>
+<a href="https://kelwin863.github.io/html-css/exercícios/ex001/index.html">Executar o exercício 001</a>
